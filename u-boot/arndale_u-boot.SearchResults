@@ -1,0 +1,4 @@
+---- CONFIG_MACH_ARNDALE_OCTA Matches (3 in 1 files) ----
+Smdk5420.c (board\samsung\smdk5420):#ifdef CONFIG_MACH_ARNDALE_OCTA
+Smdk5420.c (board\samsung\smdk5420):#ifdef CONFIG_MACH_ARNDALE_OCTA
+Smdk5420.c (board\samsung\smdk5420):#ifdef CONFIG_MACH_ARNDALE_OCTA
