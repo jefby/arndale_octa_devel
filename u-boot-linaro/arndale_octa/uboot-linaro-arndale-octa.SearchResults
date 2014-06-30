@@ -1,0 +1,4 @@
+---- TEXT_BASE Matches (3 in 2 files) ----
+Readme:		TEXT_BASE for linking the SPL binary.
+start.S (arch\arm\cpu\armv7): * (OMAP4 spl TEXT_BASE is not 32 byte aligned.
+start.S (arch\arm\cpu\armv7):	r0=_start=_TEXT_BASE=TEXT_BASE=0xa3000000;假如U-boot 从Flash 开始运行，即从处理器对应的地址运行，则r0=0x0000,这时将会执行copy_loop 标识的那段代码了。

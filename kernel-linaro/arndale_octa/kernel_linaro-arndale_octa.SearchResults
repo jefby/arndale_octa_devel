@@ -1,0 +1,2 @@
+---- random_int_secret_init Matches (1 in 1 files) ----
+Main.c (init):	random_int_secret_init();
