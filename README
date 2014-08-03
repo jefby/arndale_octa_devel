@@ -13,4 +13,5 @@ it success !
 2.about dir u-boot and kernel 
 these two files are copied from offical git repo.
 
+3.u-boot-linaro && kernel-linaro is the android source(4.4.2) code of linaro ,and i give some comments about it.maybe is useful for some newbies.
 
